@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BogusActionFilter.Models
+﻿namespace BogusActionFilter.Models
 {
     /// <summary>
     /// Configuration class for turning on the action filter and other configuration settings
